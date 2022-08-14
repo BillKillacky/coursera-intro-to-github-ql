@@ -1,2 +1,4 @@
 # coursera-intro-to-github-ql
 Exercise from a quiklab called introduction to Github
+
+I am editing the README file. Adding some more details about the project description.
